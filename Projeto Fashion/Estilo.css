@@ -1,0 +1,134 @@
+body
+{
+    font-family: sans-serif;
+}
+
+/* header */
+
+#menu
+{
+    background-color: rgb(4, 63, 117);
+    margin: 0px 7% 0px;
+    height: 50px;
+}
+
+#menu img
+{
+    margin: 10px 0px 0px 100px;
+}
+
+#menu nav
+{
+    float: right;
+    color: aliceblue;
+    margin: -0px 25px 0px 0px;
+}
+
+#menu li
+{
+    margin: 0px 5px
+}
+
+#menu li
+{
+    display: inline-block;
+}
+
+/* termina o header */
+
+.Portifólio img
+{
+    display: inline;
+    text-align: center;
+    margin: 0px 7%;
+    width: 86%
+}
+
+/* article texto */
+
+.Portifólio p
+{
+    text-align: center;
+    margin: 0px 10% 70px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.733);
+}
+
+.Portifólio h1
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* article dos modelos */
+
+.Gallery
+{
+    margin: 0px 7% 90px;
+    text-align: center;
+}
+
+.Gallery article
+{
+    display: inline-block;
+    text-align: center;
+    margin: 0px 5px;
+    color: rgba(0, 0, 0, 0.733);
+}
+
+.Gallery h2
+{
+    color: rgba(66, 64, 64, 0.842);
+    letter-spacing: 1px;
+}
+
+/* texto com o background */
+
+#About
+{
+    margin: 0px 7% 25px;
+    background-image: url(imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-position: bottom, right;
+    background-size: cover;
+    height: 500px;
+}
+
+#About h1
+{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    padding: 60px 60px 0px;
+}
+
+#About p
+{
+    color:aliceblue;
+    padding: 0px 40% 0px 60px;
+}
+
+/* contato */
+
+#contact
+{
+    text-align: center;
+    color: rgb(24, 72, 143);
+    font-weight: 900;
+    line-height: 25px; 
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin:0px 7% 30px;
+}
+
+/* mapa */
+
+.Maps
+{
+    display: inline;
+    text-align: center;
+    margin-left:7%;
+    margin-left:7%;
+}
